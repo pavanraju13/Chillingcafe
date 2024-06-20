@@ -16,6 +16,10 @@ git status
 
 git add .
 
+git config --global user.email "pavanraju4513@gmail.com"
+
+git config --global user.name "pavan"
+
 git commit -m "This is a new website"
 
 git push
